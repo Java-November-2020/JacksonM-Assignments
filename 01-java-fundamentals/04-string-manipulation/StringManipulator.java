@@ -18,7 +18,7 @@ public class StringManipulator {
             return null;
         } else {
             return "" + index2;
-        }
+        }ßß
     }
 
     public String concatSubstring(String name1, int val1, int val2, String name2){
