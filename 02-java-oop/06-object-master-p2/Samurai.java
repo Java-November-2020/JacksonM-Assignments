@@ -1,5 +1,6 @@
 public class Samurai extends Human {
     protected int health = 200;
+    protected int numberOfPeople = 0;
 
     public void deathBlow(Human hd){
         hd.health = 0;
@@ -14,6 +15,7 @@ public class Samurai extends Human {
     }
 
     public int howMany(){
-        return health;
+        numberOfPeople +=1;
+        return numberOfPeople;
     }
 }

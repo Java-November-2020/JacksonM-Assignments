@@ -17,6 +17,6 @@ public class HumanTest {
         sm.deathBlow(hd);
         sm.meditate();
         int count = sm.howMany();
-        System.out.println("Samurai's health: " + count);
+        System.out.println("Total Number of Samurai's created are: " + count);
     }
 }
