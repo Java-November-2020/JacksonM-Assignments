@@ -1,0 +1,8 @@
+@charset "UTF-8";
+h1{
+	color: blue;
+	margin-left: 700px;
+	margin-top: 200px;
+	font-family: "Lucida Console", Courier, monospace;
+	font-weight: lighter;
+}
