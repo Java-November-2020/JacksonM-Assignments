@@ -1,0 +1,61 @@
+@charset "UTF-8";
+
+form{
+	border: 3px solid black;
+	margin-left: 650px;
+	margin-top: 200px;
+	width: 500px;
+	height: 450px;
+	padding: 20px 30px;
+	
+}
+
+h1{
+	text-decoration: underline;
+}
+
+div{
+	text-align: top;
+	margin-left: 20px;
+}
+
+label{
+	margin: 5px 0px;
+	display: inline-block;
+	font-size: 15px;
+}
+
+input[type=submit] {
+  background-color: #76A5B0;
+  color: white;
+  padding: 8px 30px;
+  border: 2px solid black;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-left: 370px;
+  margin-top: 220px;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+#language{
+	margin-left: 190px;
+	font-size: 15px;
+}
+
+#name{
+	margin-left: 267px;
+	font-size: 15px;
+}
+
+#location{
+	margin-left: 215px;
+	font-size: 15px;
+
+}
+#comment{
+	margin-left: 245px;
+	font-size: 15px;
+}

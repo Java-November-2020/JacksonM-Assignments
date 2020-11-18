@@ -1,0 +1,61 @@
+@charset "UTF-8";
+
+form{
+	border: 3px solid black;
+	margin-left: 650px;
+	margin-top: 200px;
+	width: 500px;
+	height: 450px;
+	padding: 20px 30px;
+}
+
+input[type=text], select {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 55%;
+}
+
+label {
+  padding: 10px 10px 10px 0;
+  display: inline-block;
+  text-align: top;
+}
+
+input[type=submit] {
+  background-color: #76A5B0;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-left: 425px;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+input[type=text]{
+	margin-left: 125px;
+	width: 51%
+}
+
+#language{
+	margin-left: 78px;
+}
+
+#location{
+	margin-left: 105px;
+}
+
+#comment{
+	text-align: top;
+	width: 95%;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 10px;
+	border: 2px solid black;
+	border-radius: 4px;
+	padding: 8px;
+}
