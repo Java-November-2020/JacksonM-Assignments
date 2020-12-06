@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+
+h1{
+	margin-left: 280px;
+	margin-top: 60px; 
+	font-size: 70px;
+}
+
+a{
+	margin-top:220px;
+	margin-left: 510px;
+	font-size: 25px;
+	display:inline-block;
+}

@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+#title{
+	color: black;
+	font-size: 25px;
+}
+
+.navbar-brand{
+	font-size: 25px;
+}
+
+.form-group{
+	margin-left: 20px;
+}
+
+.input{
+	border: 1px solid black;
+}
+
+button{
+	margin-left: 400px;
+}

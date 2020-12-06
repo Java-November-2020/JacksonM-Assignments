@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+body{
+	margin-top: 50px;
+}
+
+.no-border {
+    border: 0;
+    box-shadow: none; 
+}
+
+.form-group{
+	margin-top: 40px;
+}
+
+#form{
+	margin-top: 80px;
+}
+
+#delete{
+	margin-top: 70px;
+}
+
+#dashboard{
+	float: right;
+}
